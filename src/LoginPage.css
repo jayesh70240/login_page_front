@@ -1,0 +1,22 @@
+.login-page{
+    border: 4px solid rgb(19, 17, 17);
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    margin-top: 12vw;
+    padding-top: 28px;
+    font-size: 25px;
+    font-weight: 400;
+}
+input{
+    width: 15vw;
+    height: 21px;
+    font-size: large;
+}
+button{
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 60px;
+    font-size: large;
+}
